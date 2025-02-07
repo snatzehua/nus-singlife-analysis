@@ -7,9 +7,6 @@ __pycache__/
 *.pyo
 *.pyd
 
-# Ignore Jupyter Notebook checkpoints (if applicable)
-.ipynb_checkpoints/
-
 # Ignore environment config files
 .env
 *.env
@@ -22,15 +19,6 @@ nohup.out
 # Ignore VSCode settings
 .vscode/
 *.code-workspace
-
-# Ignore model artifacts
-model/
-*.h5
-*.pt
-*.pth
-*.onnx
-*.joblib
-*.pickle
 
 # Ignore dataset files (if applicable)
 data/
