@@ -4,6 +4,8 @@
 
 This project builds a predictive model for client-agent matching using customer, policy, and agent data. The dataset is merged from multiple sources to analyze key factors influencing customer decisions. The model aims to provide insights into customer behavior and optimize sales strategies.
 
+Note that the dataset has not been included due to confidentiality.
+
 ## Installation
 
 1. Clone this repository:
