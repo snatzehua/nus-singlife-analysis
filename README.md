@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project builds a predictive model for client-agent matching using customer, policy, and agent data. The dataset is merged from multiple sources to analyze key factors influencing customer decisions. The model aims to provide insights into customer behavior and optimize sales strategies.
+This project is my first foray into machine learning, and involves building a predictive model for client-agent matching using customer, policy, and agent data. The dataset is merged from multiple sources to analyze key factors influencing customer decisions. The model aims to provide insights into customer behavior and optimize sales strategies.
 
 **Note: dataset omitted due to confidentiality agreement**
 
@@ -61,8 +61,8 @@ To run the analysis:
 ## Future Improvements
 
 - Enhance feature engineering for better predictions
-- Explore different machine learning models
-- Optimize model performance with hyperparameter tuning
+- Explore different machine learning models / using multiple basic models for better model performance
+- Optimise model performance with hyperparameter tuning
 
 ## Contributors
 
